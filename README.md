@@ -29,6 +29,14 @@ Esempio:
 
 `C:\Users\Utente> dir`
 
+### cls (alias: clear)
+
+"Pulisce" la riga di comando dai precedenti comandi.
+
+Esempio:
+
+`C:\Users\Utente> cls`
+
 ## Comandi: Unix
 
 ### cd (alias: change directory)
@@ -65,3 +73,11 @@ Esempio:
 
 `$> mv testo.txt testo1.txt` # il nuovo nome del file è "testo1.txt"
 `$> mv file.txt ./Desktop` # il file è stato spostato nel Desktop
+
+### clear (alias: clear)
+
+"Pulisce" la riga di comando dai precedenti comandi.
+
+Esempio:
+
+`$> clear`
