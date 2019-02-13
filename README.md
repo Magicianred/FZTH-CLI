@@ -57,3 +57,11 @@ Mostra l'elenco dei file e delle cartelle.
 Esempio:
 
 `$> ls`
+
+### mv (alias: move or rename)
+Sposta o rinomina.
+
+Esempio:
+
+`$> mv testo.txt testo1.txt` # il nuovo nome del file è "testo1.txt"
+`$> mv file.txt ./Desktop` # il file è stato spostato nel Desktop
